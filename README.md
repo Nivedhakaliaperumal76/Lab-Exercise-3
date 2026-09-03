@@ -8,7 +8,7 @@
 
 **DEPARTMENT:** AIDS (B.Tech)
 
-**DATE:** 22/07/2026
+**DATE:** 05/08/2026
 ---
 
 ## AIM
