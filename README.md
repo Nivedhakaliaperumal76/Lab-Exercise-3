@@ -145,10 +145,6 @@ Analyze the results and determine which design provides the better overall user 
 * Promotional elements can sometimes distract users
 * New users may require time to understand all available options
 * Product pages can contain excessive information
-
-
-<img width="740" height="1600" alt="WhatsApp Image 2026-08-31 at 11 12 57 (1)" src="https://github.com/user-attachments/assets/3c9c48e3-ce11-4c21-81ab-0d4b4dd44d91" />
-
 ---
 
 ## Flipkart
@@ -172,7 +168,9 @@ Analyze the results and determine which design provides the better overall user 
 * Some advanced features are less prominent
 * Product details may not be as extensive as Amazon in some cases
 
-<img width="740" height="1600" alt="WhatsApp Image 2026-09-01 at 08 38 19" src="https://github.com/user-attachments/assets/e4325d4a-da21-447a-b876-ba7a0e3782bf" />
+
+<img width="1536" height="1024" alt="WhatsApp Image 2026-09-03 at 09 04 08" src="https://github.com/user-attachments/assets/f26e7050-61d5-4fcd-81fb-7338a8177069" />
+
 
 ---
 
